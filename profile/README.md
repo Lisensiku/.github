@@ -9,4 +9,4 @@
  |______|_|___/\___|_| |_|___/_|_|\_\\__,_|
 ```
 
-Crafting secure license & API key systems with Python & Flask. Led by [@RozhakXD](https://github.com/RozhakXD), your #CyberGirl securing the digital world with style! 💿✨ [Explore our repos](https://github.com/Lisensiku) | [Contact us](mailto:rozhak@lisensiku.biz.id)
+Crafting secure license & API key systems with Python & Flask. Led by [@RozhakDev](https://github.com/RozhakDev), your #CyberGirl securing the digital world with style! 💿✨ [Explore our repos](https://github.com/Lisensiku) | [Contact us](mailto:rozhak@lisensiku.biz.id)
